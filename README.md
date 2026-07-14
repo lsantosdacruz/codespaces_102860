@@ -1,4 +1,4 @@
-# Congratulations! :tada:
+
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
